@@ -12,5 +12,12 @@
     "side": " Fries - $2.49",
     "dessert": " Vanilla Cone - $1.29",
     "total": 12.760000000000002
+  },
+  {
+    "burger": "  Big Mac - $6.49 (with cheese)",
+    "drink": " Water - $0.99",
+    "side": " Fries - $2.49",
+    "dessert": " Vanilla Cone - $1.29",
+    "total": 11.260000000000002
   }
 ]
