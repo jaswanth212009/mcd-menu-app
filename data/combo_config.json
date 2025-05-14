@@ -1,0 +1,22 @@
+{
+    "classic_combo": {
+      "burger": {
+        "name": "Big Mac",
+        "price": 5.99,
+        "toppings": ["cheese"]
+      },
+      "drink": { "name": "Coke", "price": 1.99 },
+      "side": { "name": "Fries", "price": 2.49 },
+      "dessert": { "name": "Vanilla Cone", "price": 1.29 }
+    },
+    "spicy_combo": {
+      "burger": {
+        "name": "McSpicy Chicken",
+        "price": 6.49,
+        "toppings": ["extra patty", "egg"]
+      },
+      "drink": { "name": "Sprite", "price": 1.99 },
+      "side": { "name": "Spicy Nuggets", "price": 2.99 },
+      "dessert": { "name": "McFlurry", "price": 2.49 }
+    }
+  }

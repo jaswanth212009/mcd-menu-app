@@ -1,0 +1,16 @@
+[
+  {
+    "burger": "  Big Mac - $6.59 (with egg)",
+    "drink": " Coffee - $2.49",
+    "side": " Spicy Nuggets - $2.99",
+    "dessert": " McFlurry - $2.49",
+    "total": 14.56
+  },
+  {
+    "burger": "  Cheese Burger - $6.99 (with cheese, Extra patty)",
+    "drink": " Coke - $1.99",
+    "side": " Fries - $2.49",
+    "dessert": " Vanilla Cone - $1.29",
+    "total": 12.760000000000002
+  }
+]
